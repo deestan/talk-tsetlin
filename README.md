@@ -38,3 +38,8 @@
 
 # Explainable yes!
 - Rewrite trained car identifier logic to English
+
+# other cool shit
+- markov chain sum?
+- pågåenge forskningsprosjekt https://prosjektbanken.forskningsradet.no/en/project/FORISS/312434
+
